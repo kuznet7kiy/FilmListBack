@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600">
+  <defs>
+    <linearGradient id="g" gradientTransform="rotate(68)">
+      <stop offset="0%" stop-color="#334155"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="600" fill="url(#g)"/>
+  <circle cx="340" cy="70" r="120" fill="#ffffff" opacity="0.05"/>
+  <circle cx="40" cy="560" r="90" fill="#ffffff" opacity="0.04"/>
+  <text text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="600"><tspan x="200" y="300">The Conjuring</tspan></text>
+  <text x="200" y="358" text-anchor="middle" fill="#ffffff" opacity="0.7" font-family="Segoe UI, Arial, sans-serif" font-size="24">2013</text>
+</svg>
